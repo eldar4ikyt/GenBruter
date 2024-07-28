@@ -32,7 +32,7 @@ The program will automatically load the list of passwords from the `passwords.tx
 - `requests` library (install with `pip`)
 
 ## Notes
-- **Password File**: Ensure that the passwords.txt file contains one password per line.
+- **Password File**: Ensure that the `passwords.txt` file contains one password per line.
 - **CSRF Protection**: Some sites may use CSRF tokens or other security mechanisms. In such cases, this tool may not work as expected.
 
 ## Disclaimer
